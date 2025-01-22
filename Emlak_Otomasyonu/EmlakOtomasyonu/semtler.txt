@@ -1,0 +1,15 @@
+Ýstanbul|Sancaktepe
+Ýstanbul|Üsküdar
+Ýstanbul|Kadýköy
+Ýstanbul|Beþiktaþ
+Ýstanbul|Ümraniye
+Ankara|Çankaya
+Ankara|Turgutlu
+Ankara|Etimesgut
+Ankara|Gölbaþý
+Ankara|Keçiören
+Konya|Selçuklu
+Konya|Meram
+Konya|Beyþehir
+Konya|Cihanbeyli
+Konya|Karatay

@@ -1,0 +1,12 @@
+C:\Users\Erkann\OneDrive\Masaüstü\Emlak-Otomasyonu-master\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Erkann\OneDrive\Masaüstü\Emlak-Otomasyonu-master\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Erkann\OneDrive\Masaüstü\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Erkann\OneDrive\Masaüstü\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Erkann\OneDrive\Masaüstü\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Erkann\OneDrive\Masaüstü\Emlak-Otomasyonu-master\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Erkann\OneDrive\Masaüstü\223311082_EmlakOtomasyonu\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Erkann\OneDrive\Masaüstü\223311082_EmlakOtomasyonu\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Erkann\OneDrive\Masaüstü\223311082_EmlakOtomasyonu\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Erkann\OneDrive\Masaüstü\223311082_EmlakOtomasyonu\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Erkann\OneDrive\Masaüstü\223311082_EmlakOtomasyonu\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Erkann\OneDrive\Masaüstü\223311082_EmlakOtomasyonu\ClassLibrary\obj\Debug\ClassLibrary.pdb

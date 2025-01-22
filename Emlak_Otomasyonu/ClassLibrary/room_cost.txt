@@ -1,0 +1,4 @@
+Daire|4000
+Bahçeli|5000
+Dubleks|7500
+Mustakil|3000
